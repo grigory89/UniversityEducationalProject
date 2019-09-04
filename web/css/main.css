@@ -1,0 +1,30 @@
+.table {
+    margin: auto;
+    width: auto;
+}
+
+th {
+    padding: 10px;
+    text-transform: uppercase;
+    background-color: lightblue;
+}
+
+td {
+    font-size: 0.8em;
+    padding: 5px 7px;
+}
+
+td.pointer {
+    cursor: pointer;
+}
+
+caption {
+    caption-side: top;
+    font-size: 1.8em;
+    color: #062c33;
+}
+
+.form-group input {
+    width: 100px;
+
+}
