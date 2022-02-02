@@ -11,7 +11,7 @@
     <properties>
         <commons-collections-version>3.2.1</commons-collections-version>
         <junit-jupiter-api-version>5.5.0</junit-jupiter-api-version>
-        <postgresql-version>42.2.5</postgresql-version>
+        <postgresql-version>42.2.25</postgresql-version>
         <log4j-version>2.6.1</log4j-version>
         <slf4j-version>2.7</slf4j-version>
         <jstl-version>1.2</jstl-version>
